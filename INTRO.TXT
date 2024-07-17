@@ -1,0 +1,201 @@
+Attributes of  body:
+  bgcolor,text, left margin, topmargin, background,title
+
+  FORMATTING TAGS:
+  
+    <H1></H1>--> level1
+
+    <H2></H2>--> level2
+
+    <H3></H3>-->level 3
+
+    <H4></H4>--> level 4
+
+    <H5></H5>--> level 5
+
+    <H6></H6>--> level 6
+
+
+    ATTRIBUTES OF H1 TO H6
+    =======================
+
+    1. ALIGN="LEFT/RIGHHT/CENTER"  => iT IS USED TO Specify the alignment. Default is left.
+    2.title="..."  => it is used to specift tool tip text.
+
+
+    <marquee></marquee>  this tag is used to scrool the text in the top of the text in brpwser
+
+    Attributes of  <marquee> tag
+    =============================
+    1.bg color
+    2. behavior="scroll/slide/ a"
+    scrolla maount  it is used to spped value 
+    loop="  "   It is used to specify how many times  it should be   scroll
+
+    width=""=> specify rjr ,arquee wiodth
+    heigt=""=>  it is used to specify  marquee heighht
+    hspace=""=> specify hhoerizental space
+    vspace=""=> specify veertical space
+    direction="left\right\up\down"=>  specify the text direcytion
+    title="" => it is used to specify tool tip text
+
+    FORMATTING TAGS
+===============================
+
+<font></font>==>   it is defined to font
+<b>..</b>=>   it is used to define the bold text
+<i>..</..i>  it is used to define italic text
+<u>..</u>=> it is used to define underline
+<br>==>it is usecto beraek line
+<center>...</center>  => it is used to define center alignment
+
+
+ATTRIBUTE OF FONT TAGS
+==========================
+
+1.face="""  ==>  it is used to specify the font name
+2.size="" => it is used to specify  the font size
+3.color=""=> it is usec to speciy gtext color
+
+FORMATTIG TAGS
+================
+
+<SUB></sub> ==> it is used to define subscripted text.
+<sup></sup>==> it is used to define superscripted text
+<del></del>==> it is used to define deleted text.
+<strike></strike>  ==> It is usec to define  strike the text
+
+<hr>=> It is used to define horizental rules
+<p> it is used to define the paragfrfaph
+<bdo></bdo>=> it is used to define  override text direction  BDO standarad BI  direction  override
+<pre></pre>  It is usec to define performed text
+<progress></progress>  => it ias used to define  progress ber.
+<abbr></abbr>  => it is usect to define abrovation of te text
+<adress></adress>It is used to define contact information
+
+
+Attributes of hhr tag
+=========================
+color
+widthh
+height
+size==> it is used to speciy thickness.
+align="left/rigt/center"
+
+
+Attributes of bdo tag
+======================
+1.dir="ltr/rtl"  it is used to specify the  text direction
+			ltr=left to right
+			rtl=right to left
+
+attributes for <abbr> tag
+==============================
+1.title=""  it is used to specify the toll tip text
+
+Attributes of progress ta
+==========================
+
+1.max=" value" => it is used to specify maximum value of the task.
+2. value=""  => it is used to specify how much  value of the task will be downloaded
+
+
+Entities:
+=========
+thsis are used for reserved characyer such as   =>   <,>,&,',",...etc
+list of entities:
+================
+1. &lt;=> it is suse to represent  to lesss tan symbol
+2.&gt;  => it is used to represent to greater than symbol.
+3. &amp; =>  It is used to ampersand symbol
+4.&quot;  => it is display double qotes.
+5.&apos;  =< it is used to repe=resent single quote
+6. &nbsp;  => it is used to represent  display non breaking space
+7. &pound; => it is used to represent pound currency symbol
+&yen;  => it is used to display currency symbol;
+9.&euro;  It display euro symbol
+10. &cent; => diplay cent currency symbol
+11.&reg;  => it display registerd symbol
+12. &copy;  it display copy right symbol
+13. 7alpha;  => alpha symbol
+14. &beta;=>  beta symbol
+15. &gamma;  => gamma symbol
+16. &spades; => spade symbol
+17. &diams; =>  diamond symbol
+18. &clubs; => club symbol
+19. &hearts; => heart symbol
+
+
+
+
+
+
+
+HTML LIST
+===============
+thare are 3 types of list:
+
+1.orderd list
+2.unorderd list
+3.description list
+
+
+list tags
+===========
+
+1.<ol>.</ol>  => define ordred list
+2. <uL>.</ul>  define unorderd list
+3. <li> => it id used to define list of items
+4. <dl> ..</dl>  describe description list
+5. <dt>...</dt>  define description terms
+6.  <dd>  ...</dd>  define data description 
+
+
+
+Attributes of  OL iag
+==============
+
+type="1/A/a/I/i"  => it is used to define specifi type
+staer="" =>   to specify  where the list should 	begin.  it allow decimal number only
+
+Attributes of ul tag
+=====================
+type="disc/circle/square/none"  => it is used to specify the type.. default is disc
+
+hyperlinks:
+=============
+
+hyperlinks are underline words or locations  in te web page taht leadds to other document.
+
+
+tere are 2 types of yperlinks:
+1. page jump links
+2. Book mark hyper links
+
+
+page jump hyper links
+=====================
+there are 2 types of  paage jump yper links
+1.internal hyper link
+2. external  hyper link
+
+internal hyper link:-
+===================
+ The link between 2 different web pages un the same  web site is called internal hyper link
+
+external  hyper link
+========================
+  thhe link between two differnt web pages in differnt  website  is called as an  external yper link.
+
+Book mark hyper link
+===============
+ The link between  2 differnt locations in the same web page is called as book mark yper link.
+
+Attributes of <a> tag
+=======================
+
+
+
+
+
+
